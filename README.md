@@ -38,8 +38,8 @@ Most influential habits: **checking nutrition labels** (26%), **eating vegetable
 ## Getting started
 
 ```bash
-git clone https://github.com/YusfAI/Healtrhy-lifestyle-detector.git
-cd Healtrhy-lifestyle-detector
+git clone https://github.com/YusfAI/healthy-lifestyle-detector.git
+cd healthy-lifestyle-detector
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
